@@ -1,0 +1,10 @@
+streamlit
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-mistralai
+tavily-python
+python-dotenv
+requests
+rich
+beautifulsoup4
